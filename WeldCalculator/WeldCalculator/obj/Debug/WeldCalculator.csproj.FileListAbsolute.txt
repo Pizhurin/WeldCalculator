@@ -1,0 +1,62 @@
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe.config
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.pdb
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csprojAssemblyReference.cache
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Form1.resources
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Properties.Resources.resources
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.GenerateResource.cache
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.CoreCompileInputs.cache
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.exe
+E:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.pdb
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe.config
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.pdb
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csprojAssemblyReference.cache
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Form_Start.resources
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Properties.Resources.resources
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.GenerateResource.cache
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.CoreCompileInputs.cache
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.exe
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.pdb
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormButt.resources
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormFillet.resources
+D:\MyProject\Weld Calculator _ WinForm\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormLap.resources
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe.config
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.pdb
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csprojAssemblyReference.cache
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Form_Start.resources
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormButt.resources
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormFillet.resources
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormLap.resources
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Properties.Resources.resources
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.GenerateResource.cache
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.exe
+C:\Users\pizhu\Desktop\Variable_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.pdb
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe.config
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.pdb
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csprojAssemblyReference.cache
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Form_Start.resources
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormButt.resources
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormFillet.resources
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormLap.resources
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Properties.Resources.resources
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.GenerateResource.cache
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.CoreCompileInputs.cache
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.exe
+D:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.pdb
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe.config
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.exe
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\bin\Debug\WeldCalculator.pdb
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csprojAssemblyReference.cache
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Form_Start.resources
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormButt.resources
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormFillet.resources
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.FormLap.resources
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.Properties.Resources.resources
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.GenerateResource.cache
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.csproj.CoreCompileInputs.cache
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.exe
+E:\MyProject\Weld Calculator _ WinForm\V2_WeldCalculator\WeldCalculator\WeldCalculator\obj\Debug\WeldCalculator.pdb
